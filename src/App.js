@@ -1,6 +1,5 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import React, { Component } from 'react';
-
 import Topo from './components/Topo';
 import Home from './components/Home';
 import Produtos from "./components/Produtos";
